@@ -2,9 +2,11 @@
 [![Deploy to ECS](https://github.com/4monument/sb1-monew-team04/actions/workflows/deploy.yml/badge.svg)](https://github.com/4monument/sb1-monew-team04/actions/workflows/deploy.yml)
 
 # 이요한 : 개인 보고서 
-## 구현 로직 흐름도 : [Monew batch 구현 흐름도.pdf](https://github.com/user-attachments/files/20429487/Monew.batch.pdf)
+## 구현 로직 흐름도 : [Monew batch 구현 흐름도.pdf](https://github.com/user-attachments/files/20429532/Monew.batch.pdf)
 
-![image](https://github.com/user-attachments/assets/d1c06301-7086-4bad-9c9d-41bbbf150c1f)
+Preview : 대표적인 흐름 중 1개
+![image](https://github.com/user-attachments/assets/7c1edebe-54bb-4709-8cb1-e2e930e0b0a7)
+
 
 그 외 : pdf 참고 
 

@@ -1,6 +1,17 @@
 [![codecov](https://codecov.io/github/4monument/sb1-monew-team04/graph/badge.svg?token=WQ5SVNKB1P)](https://codecov.io/github/4monument/sb1-monew-team04)
 [![Deploy to ECS](https://github.com/4monument/sb1-monew-team04/actions/workflows/deploy.yml/badge.svg)](https://github.com/4monument/sb1-monew-team04/actions/workflows/deploy.yml)
 
+# 이요한 : 개인 보고서 
+## 구현 로직 흐름도 : [Monew batch 구현 흐름도.pdf](https://github.com/user-attachments/files/20429487/Monew.batch.pdf)
+
+![image](https://github.com/user-attachments/assets/d1c06301-7086-4bad-9c9d-41bbbf150c1f)
+
+그 외 : pdf 참고 
+
+## 개인 프로젝트 회고 PDF : [이요한_중급프로젝트 회고.pdf](https://github.com/user-attachments/files/20429507/_.pdf)
+
+
+
 # 🌟 팀이름 : **MonewMonet**
 
 ## 👨‍💻 **팀원 소개**

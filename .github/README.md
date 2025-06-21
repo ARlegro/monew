@@ -5,6 +5,7 @@
 ## 구현 로직 흐름도 : [Monew batch 구현 흐름도.pdf](https://github.com/user-attachments/files/20429532/Monew.batch.pdf)
 
 Preview : 대표적인 흐름 중 1개
+
 ![image](https://github.com/user-attachments/assets/998b6692-3a2a-47b0-bddd-156c1afb8b03)
 
 

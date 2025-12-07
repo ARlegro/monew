@@ -2,19 +2,15 @@
 [![Deploy to ECS](https://github.com/4monument/sb1-monew-team04/actions/workflows/deploy.yml/badge.svg)](https://github.com/4monument/sb1-monew-team04/actions/workflows/deploy.yml)
 
 # 이요한 : 개인 보고서 
-## 구현 로직 흐름도 : [Monew batch 구현 흐름도.pdf](https://github.com/user-attachments/files/20429532/Monew.batch.pdf)
-
-Preview : 대표적인 흐름 중 1개
-
-![image](https://github.com/user-attachments/assets/998b6692-3a2a-47b0-bddd-156c1afb8b03)
-
-
-
-그 외 : pdf 참고 
-
-## 개인 프로젝트 회고 PDF : [이요한_중급프로젝트 회고.pdf](https://github.com/user-attachments/files/20429507/_.pdf)
-
-
+- 구현 로직 흐름도 : [Monew batch 구현 흐름도.pdf](https://github.com/user-attachments/files/20429532/Monew.batch.pdf)
+- 개인 프로젝트 회고 PDF : [이요한_중급프로젝트 회고.pdf](https://github.com/user-attachments/files/20429507/_.pdf)
+- 프로젝트 마무리 후 성능 최적화 : [쿼리/인덱싱 최적화](https://computer-travel.netlify.app/devstudy/db/fundamentals%20of%20db%20engineering/%EC%9D%B4%EC%A0%84%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20-%20%EC%B5%9C%EC%A0%81%ED%99%94%20%ED%95%B4%EB%B3%B4%EA%B8%B0/)
+  
+  | 전략               | 쿼리 수 | JOIN 수 | 메모리 부하 | 속도    |
+  | ---------------- | ---- | ------ | ------ | ----- |
+  | **기존**           | 1    | 3      | 높음     | 무한로딩  |
+  | **쿼리 최적화 후**     | 3    | 0      | 낮음     | 125ms |
+  | **쿼리 최적화 + 인덱싱** | 3    | 0      | 낮음     |       |
 
 # 🌟 팀이름 : **MonewMonet**
 
